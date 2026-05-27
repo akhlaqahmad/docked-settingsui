@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/primary.swiftdeps"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/Sources/SettingsUI/DockInspectorView.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockInspectorView.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockInspectorView.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockInspectorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockInspectorView.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockInspectorView.dia"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/Sources/SettingsUI/DockListSidebar.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockListSidebar.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockListSidebar.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockListSidebar~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockListSidebar.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/DockListSidebar.dia"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/Sources/SettingsUI/LicenseSettingsView.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/LicenseSettingsView.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/LicenseSettingsView.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/LicenseSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/LicenseSettingsView.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/LicenseSettingsView.dia"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/Sources/SettingsUI/OnboardingView.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/OnboardingView.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/OnboardingView.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/OnboardingView.dia"
+  },
+  "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/Sources/SettingsUI/SettingsWindow.swift": {
+    "dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/SettingsWindow.d",
+    "object": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/SettingsWindow.swift.o",
+    "swiftmodule": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/SettingsWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/SettingsWindow.swiftdeps",
+    "diagnostics": "/Users/akhlaqahmad/local-projects/my-dock-my/DockedMy/Packages/SettingsUI/.build/arm64-apple-macosx/debug/SettingsUI.build/SettingsWindow.dia"
+  }
+}
