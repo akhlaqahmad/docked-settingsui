@@ -2,6 +2,7 @@ import SwiftUI
 import AppCore
 import DesignSystem
 
+@MainActor
 public struct LicenseSettingsView: View {
     @State private var licenseKey: String = ""
     @State private var isActivating: Bool = false

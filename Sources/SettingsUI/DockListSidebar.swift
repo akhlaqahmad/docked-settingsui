@@ -3,6 +3,7 @@ import AppCore
 import DesignSystem
 import DisplayKit
 
+@MainActor
 struct DockListSidebar: View {
     let viewModel: DockListViewModel
     let displayObserver: DisplayObserver

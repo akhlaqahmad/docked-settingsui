@@ -3,6 +3,7 @@ import AppCore
 import DesignSystem
 import DisplayKit
 
+@MainActor
 public struct SettingsWindow: View {
     @State private var listVM: DockListViewModel
     private let manager: DockManager

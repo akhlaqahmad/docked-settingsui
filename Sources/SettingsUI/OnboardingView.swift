@@ -3,6 +3,7 @@ import AppCore
 import DesignSystem
 import DisplayKit
 
+@MainActor
 public struct OnboardingView: View {
     @State private var step: Int = 0
     private let displayObserver: DisplayObserver

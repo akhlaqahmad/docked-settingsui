@@ -1,0 +1,42 @@
+{
+  "originHash" : "64abfb92edcd5bf24c08fb7167ae09526f1014e0510324c5e97ee754cdc27120",
+  "pins" : [
+    {
+      "identity" : "docked-appcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/akhlaqahmad/docked-appcore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "12f21048d771672c990cb5117739e10a7b3ccbff"
+      }
+    },
+    {
+      "identity" : "docked-designsystem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/akhlaqahmad/docked-designsystem.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c58599129e5aec49641c69c7c2520a606bf7e62a"
+      }
+    },
+    {
+      "identity" : "docked-displaykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/akhlaqahmad/docked-displaykit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dd86c3d296ca344e6b44119cf6992fa263f57ae6"
+      }
+    },
+    {
+      "identity" : "docked-workspacekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/akhlaqahmad/docked-workspacekit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "46ae5787b01a839a53d9e334453c71fa37822f0a"
+      }
+    }
+  ],
+  "version" : 3
+}

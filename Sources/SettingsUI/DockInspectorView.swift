@@ -3,6 +3,7 @@ import AppCore
 import DesignSystem
 import DisplayKit
 
+@MainActor
 struct DockInspectorView: View {
     let viewModel: DockInspectorViewModel
     let displayObserver: DisplayObserver
